@@ -1,0 +1,14 @@
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\bin\Debug\net9.0\Projeto_musical.exe
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\bin\Debug\net9.0\Projeto_musical.deps.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\bin\Debug\net9.0\Projeto_musical.runtimeconfig.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\bin\Debug\net9.0\Projeto_musical.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\bin\Debug\net9.0\Projeto_musical.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.AssemblyInfoInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.AssemblyInfo.cs
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.csproj.CoreCompileInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\refint\Projeto_musical.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\Projeto_musical.genruntimeconfig.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Projeto_musical\obj\Debug\net9.0\ref\Projeto_musical.dll
