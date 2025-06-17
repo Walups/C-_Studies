@@ -1,0 +1,14 @@
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.AssemblyInfoInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.AssemblyInfo.cs
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.csproj.CoreCompileInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\bin\Debug\net9.0\select_position.exe
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\bin\Debug\net9.0\select_position.deps.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\bin\Debug\net9.0\select_position.runtimeconfig.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\bin\Debug\net9.0\select_position.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\bin\Debug\net9.0\select_position.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\refint\select_position.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\select_position.genruntimeconfig.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Select_position\obj\Debug\net9.0\ref\select_position.dll

@@ -1,0 +1,14 @@
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\bin\Debug\net9.0\calculo_media.exe
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\bin\Debug\net9.0\calculo_media.deps.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\bin\Debug\net9.0\calculo_media.runtimeconfig.json
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\bin\Debug\net9.0\calculo_media.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\bin\Debug\net9.0\calculo_media.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.AssemblyInfoInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.AssemblyInfo.cs
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\refint\calculo_media.dll
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.pdb
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\calculo_media.genruntimeconfig.cache
+C:\Users\Walli\Documents\Projetos_de_software\C#\Exercicios\Calculo_notas\obj\Debug\net9.0\ref\calculo_media.dll
